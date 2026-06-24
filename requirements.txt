@@ -1,4 +1,6 @@
-Numpy
-Pandas
-Seaborn
+numpy
+pandas
+seaborn
+matplotlib
+scikit-learn
 -e .
